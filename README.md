@@ -8,3 +8,4 @@ TO DO:
 * What other RegEx patterns would be useful? Make them a hardcoded toggle or better yet, make an interactive prompt so user can select pattern to search from a list of human readable options
 * Have the app take screenshots as input, then OCR the input to create workable data
 * Use pexpect to auto configure devices in a running packet tracer file from stripped cisco labs
+* argparse to create a companion experience for the lab using the stripped document
